@@ -36,6 +36,13 @@
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/kopi robusta medan.jpeg.jpg",
+            "nama": "Kopi Robusta Medan",
+            "size": "150 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=kopi+robusta-medan&tbm=shop"
         }
     ],
     "Coffee": [
@@ -75,6 +82,20 @@
             "size": "200 Ml",
             "harga": "10.000",
             "link": "www.tokopedia.com/es-teh-manis"
+        },
+        {
+            "nama": "Es Lemon Tea",
+            "gambar": "images/produk/es lemon tea.jpeg",
+            "size": "200 Ml",
+            "harga": "12.000",
+            "link": "www.tokopedia.com/es-lemon-tea"
+        },
+        {
+            "nama": "Es Teh Apel",
+            "gambar": "images/produk/es teh apel.jpeg",
+            "size": "200 Ml",
+            "harga": "15.000",
+            "link": "www.tokopedia.com/es-teh-apel"
         }
     ],
     "Cemilan": [
