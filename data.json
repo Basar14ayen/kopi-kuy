@@ -1,0 +1,103 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Kopi": [
+        {
+            "nama": "Cappucino",
+            "gambar": "images/produk/product_capuchino.jpg",
+            "size": "200 Ml",
+            "harga": "40.000",
+            "link": "www.tokopedia.com/cappucinoenak"
+        },
+        {
+            "nama": "Espresso",
+            "gambar": "images/produk/product_espresso.jpg",
+            "size": "100 Ml",
+            "harga": "20.000",
+            "link": "www.tokopedia.com/espressojoss"
+        },
+        {
+            "nama": "Kopi Susu",
+            "gambar": "images/produk/product_kopi_susu.jpg",
+            "size": "200 Ml",
+            "harga": "30.000",
+            "link": "www.tokopedia.com/kopi-susu"
+        },
+        {
+            "nama": "Latte",
+            "gambar": "images/produk/product_latte.jpg",
+            "size": "200 Ml",
+            "harga": "35.000",
+            "link": "www.tokopedia.com/kopi-susu"
+        }
+    ],
+    "Teh": [
+        {
+            "nama": "Es Teh Manis",
+            "gambar": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+            "size": "200 Ml",
+            "harga": "10.000",
+            "link": "www.tokopedia.com/es-teh-manis"
+        }
+    ],
+    "Cemilan": [
+        {
+            "nama": "Tempe Mendoan",
+            "gambar": "images/produk/tempe mendoan.jpg",
+            "size": "10 pcs",
+            "harga": "20.000",
+            "link": "www.tokopedia.com/tempe-mendoan"
+        },
+        {
+            "nama": "Mie Gacoan",
+            "gambar": "images/produk/mie gacoan.jpg",
+            "size": "1 porsi",
+            "harga": "15.000",
+            "link": "www.tokopedia.com/gacoan-mie"
+        },
+        {
+            "nama": "Tahu Isi",
+            "gambar": "images/produk/tahu isi.jpg",
+            "size": "5 pcs",
+            "harga": "10.000",
+            "link": "www.tokopedia.com/tahu-isi"
+        }
+    ]
+}
